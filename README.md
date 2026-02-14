@@ -62,3 +62,5 @@ A recorded walkthrough is included, demonstrating:
 - Dosovitskiy, A., et al. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. arXiv:2010.11929. https://doi.org/10.48550/arXiv.2010.11929 (doi.org in Bing)
 - Donahue, J., et al. (2015). Long-term recurrent convolutional networks for visual recognition and description. CVPR. https://doi.org/10.1109/CVPR.2015.7298878 (doi.org in Bing)
 - Venugopalan, S., et al. (2015). Sequence to sequence – video to text. ICCV. https://doi.org/10.1109/ICCV.2015.515 (doi.org in Bing)
+
+
